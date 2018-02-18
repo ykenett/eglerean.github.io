@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enrico Glerean (PhD) - biomedical engineering / methods for fMRI / networks and connectivity / cognitive neuroscience"
+title                    : "Brain, Networks, Behaviour"
 title_separator          : "-"
-name                     : &name "Enrico Glerean"
-description              : &description "brain, networks, behaviour"
+name                     : &name "Enrico Glerean, PhD (Dr. Tech.)"
+description              : &description "Brain, Networks, Behaviour"
 url                      : https://eglerean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eglerean/eglerean.github.io"
