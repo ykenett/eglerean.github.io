@@ -82,10 +82,10 @@ author:
   avatar           : "EG_profile.jpg"
   bio              : "Postdoctoral scientist at University of Turku. <br>Neuroscience, graph-theory, signal processing, web technologies, social cognition. "
   location         : "Finland"
-  employer         : "http://turkupetcentre.fi/"
+  employer         : "Turku PET Centre"
   googlescholar    : "https://scholar.google.fi/citations?user=sD90SmMAAAAJ&hl=en"
   email            : "enrico.glerean@utu.fi"
-  uri              :
+  uri              : "https://eglerean.wordpress.com/"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -97,7 +97,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "http://fi.linkedin.com/in/enricoglerean"
   orcid            : "http://orcid.org/0000-0003-0624-675X"
   pinterest        :
   soundcloud       :
