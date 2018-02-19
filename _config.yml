@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enrico Glerean (PhD – D.Tech.)"
+title                    : "Enrico Glerean"
 title_separator          : "-"
 name                     : &name "Enrico Glerean, PhD (Dr. Tech.)"
 description              : &description "Brain, Networks, Behaviour"
