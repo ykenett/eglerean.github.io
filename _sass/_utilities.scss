@@ -305,7 +305,7 @@ body:hover .visually-hidden button {
     left: 0;
     width: $navicon-width;
     height: $navicon-height;
-    background: #fff;
+    background: #52adc8; // it was #fff;
     -webkit-transition: 0.3s;
     transition: 0.3s;
   }
@@ -320,20 +320,21 @@ body:hover .visually-hidden button {
 }
 
 .close .navicon {
+
   /* hide the middle line*/
-  background: transparent;
+//  background: transparent;
 
   /* overlay the lines by setting both their top values to 0*/
-  &:before, &:after{
+/*  &:before, &:after{
     -webkit-transform-origin: 50% 50%;
         -ms-transform-origin: 50% 50%;
             transform-origin: 50% 50%;
     top: 0;
     width: $navicon-width;
   }
-
+*/
   /* rotate the lines to form the x shape*/
-  &:before{
+/*  &:before{
     -webkit-transform: rotate3d(0,0,1,45deg);
             transform: rotate3d(0,0,1,45deg);
   }
@@ -341,6 +342,7 @@ body:hover .visually-hidden button {
     -webkit-transform: rotate3d(0,0,1,-45deg);
             transform: rotate3d(0,0,1,-45deg);
   }
+*/
 }
 
 
