@@ -10,7 +10,6 @@
  *
 */
 
-@import url('https://fonts.googleapis.com/css?family=Roboto:300,900');
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -38,3 +37,4 @@
 @import "vendor/font-awesome/font-awesome";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,900');
