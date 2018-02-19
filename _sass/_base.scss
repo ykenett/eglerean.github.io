@@ -166,6 +166,12 @@ li ol {
   margin-top: 0.5em;
 }
 
+ol li:before {
+    content: counter(item) ". ";
+    counter-increment: item;
+    font-weight: bold;
+}
+
 /*
    Media and embeds
    ========================================================================== */
