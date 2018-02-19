@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brain, Networks, Behaviour"
+title                    : "Enrico Glerean (PhD – D.Tech.)"
 title_separator          : "-"
 name                     : &name "Enrico Glerean, PhD (Dr. Tech.)"
 description              : &description "Brain, Networks, Behaviour"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Enrico Glerean"
   avatar           : "EG_profile.jpg"
-  bio              : "Senior scientist at University of Turku. Neuroscience, graph-theory, signal processing, web technologies, social cognition. "
+  bio              : "Postdoctoral scientist at University of Turku. <br><br>Neuroscience, graph-theory, signal processing, web technologies, social cognition. "
   location         : "Finland"
   employer         : 
   googlescholar    : "https://scholar.google.fi/citations?user=sD90SmMAAAAJ&hl=en"
