@@ -15,4 +15,6 @@ Brain, Networks, Behaviour
 ======
 My main research interests can be summarized in the three keywords Brain, Networks, Behaviour. These three elements and their multiple combinations are present in all my peer reviewed studies.
 
-<a class="twitter-timeline" href="https://twitter.com/eglerean?ref_src=twsrc%5Etfw">Tweets by eglerean</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://twitter.com/eglerean?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @eglerean</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="twitter-timeline" data-lang="en" data-height="400" href="https://twitter.com/eglerean?ref_src=twsrc%5Etfw">Tweets by eglerean</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
