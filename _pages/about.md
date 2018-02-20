@@ -27,14 +27,15 @@ Networks
 Networks are ubiquitous. Furthermore, networks (graphs) are a powerful mathematical tool to model knowledge, social interaction, mental disorders and biological networks like the brain. I am specifically interested in multi-layer networks and how graph modelling of each layer can act as a bridge between phenotype, behaviour and brain-based measurement. Network science is also a powerful tool to identify clusters and subtypes, which is important in mental healthcare as current psychiatric diagnoses are often too broad umbrella terms for very different types of conditions. I work on network modelling with a holistic data-driven approaches (such as proposed by RDoC) to better understand clinical populations.
 
 ![Intersubject Analysis framework - Combining brain and behaviour across individuals](/images/Glerean2015_Diss_ISA.png)
+###### A schematic representation of the intersubject analysis framework. For two groups of subjects (bottom layer, groups G1 and G2), we can compute the similarity be-tween each subject pair by using functional brain data at the level of a single voxel ("Single voxel time-series" layer), using behavioral scores ("Behavioral scores" layer) or using more complex modeling methods (e.g. similarity at the level of subnetworks). These similarity layers are depicted as networks and as adjacency matrices also known, in this case, as intersubject similarity matrices. Three types of statistical tests can then be run (marked in dark red in the figure): a group difference within a layer, in which the within groups values of the adjacency matrix are compared (bottom adjacency matrix, where the group comparison tests whether the within G1 group similarity is higher than the within G2 group similarity). The second test is the Mantel test, in which two similarity matrices are compared with each other by correlating the corresponding values of the top off-diagonal triangle. In the latter case, also the between group similarity values are used making the Mantel approach more strict. The third test is the whole-group intersubject correlation, as the significant level of average pairwise similarity for a single voxel time-series as implemented by the ISC toolbox.
 
 
 Behaviour
 ------
 Studying the brain without behaviour is like trying to understand a car without ever driving it. Behaviour is the most fascinating of the three concepts I am interested in, as we experience it daily alone and during interactions with others. Specifically, I am interested in emotions and the role of the body in our mental perception. I am also interested in quantifying behaviour with clinical populations, to design tools to aid individuals and their therapists in understanding behaviour using web-based and smartphone-based technologies. I have developed tools for self-reporting complex body responses due to emotions or other psycho-physiological processes. I have developed web tools for massive online data collection. I am also interested how individuals synchronise with each other using dynamic behavioural and physiological measures. 
 
-![Bodily maps of emotions collected with the emBODY tool]('/images/Glerean2014_Body.png')
-
+![Bodily maps of emotions collected with the emBODY tool](/images/Glerean2014_Body.png)
+###### Bodily topography of basic (Upper) and nonbasic (Lower) emotions associated with words. The body maps show regions whose activation increased (warm colors) or decreased (cool colors) when feeling each emotion. The colorbar indicates the t-statistic range.
 
 
 
