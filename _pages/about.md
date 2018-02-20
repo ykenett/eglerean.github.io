@@ -27,7 +27,7 @@ My main research interests orbit around these three keywords: <b>Brain, Networks
 Brain
 ------
 Most of my research focuses on the human brain. As the brain is a network, I have developed extensive knowledge in brain networks from the level of neurons up to the large scale interactions between brain regions. I am particularly interested in subcortical areas and their role in cognition and psychiatric disorders. I also study the interaction between individuals using quantitative approaches, by modelling how more brains synchronise with each other with methods such as Intersubject Synchronisation and Intersubject Dynamic Functional Connectivity. I work with Magnetic Resonance Imaging (fMRI, sMRI, dMRI, MRA, CBV), Positron Emission Tomography (mu-opiods receptors, serotonin receptors and transpotrters, dopamine), and sometimes also with electrophisiology (MEG, EEG). I also have a passion for meta-analysis and web-based tools to study and discover the vastness of brain imaging data.
-![Autism Spectrum Disorder - Brain Network Reorganization](/images/Glerean2015_ASN_Figure2.png | width=500)
+![Autism Spectrum Disorder - Brain Network Reorganization](/images/Glerean2015_ASN_Figure2.png){:width="500"}
 
 
 Networks
