@@ -12,6 +12,12 @@ I am Enrico Glerean, I am a postdoctoral scientist working with Brains, Networks
 
 Short bio
 ------
+I graduated in Telecommunication Engineering (University of Padua, 2002) and worked as a research assistant (2003-2004); research topic: patterns in time-series of internet traffic. In 2004 I left academia and moved to London to work for the IT industry until end 2007. I went back to academia studying for a second master degree in music cognition: <a href="https://www.jyu.fi/hum/laitokset/musiikki/en/studies/mmt/MMT-programme">Music, Mind &amp; Technology</a> (University of Jyv&auml;skyl&auml;). This led me to a research position as part of the <a href="http://neuro.hut.fi/aivoaalto/">aivoAALTO</a> research team which ended up in 2015 with me completing a PhD (Doctor of Technology) at <a href="http://sci.aalto.fi/en/">Aalto University School of Science</a> (former Helsinki University of Technology) combining fMRI and complex networks methods to understand brain functions. 
+Since January 2016 I am a post doctoral researcher at Lauri Nummenmaa's <a href="http://emotion.utu.fi/">Human Emotion Systems Lab</a> at University of Turku.
+
+I sometimes work as free-lance software developer and system administrator for various IT companies. More info <a href="http://fi.linkedin.com/in/enricoglerean">here</a>.
+
+In my free time I enjoy travelling, swimming, cycling, making music, and playing with my two children.
 
 
 Research interests: Brain, Networks, Behaviour
@@ -21,12 +27,19 @@ My main research interests orbit around these three keywords: <b>Brain, Networks
 Brain
 ------
 Most of my research focuses on the human brain. As the brain is a network, I have developed extensive knowledge in brain networks from the level of neurons up to the large scale interactions between brain regions. I am particularly interested in subcortical areas and their role in cognition and psychiatric disorders. I also study the interaction between individuals using quantitative approaches, by modelling how more brains synchronise with each other with methods such as Intersubject Synchronisation and Intersubject Dynamic Functional Connectivity. I work with Magnetic Resonance Imaging (fMRI, sMRI, dMRI, MRA, CBV), Positron Emission Tomography (mu-opiods receptors, serotonin receptors and transpotrters, dopamine), and sometimes also with electrophisiology (MEG, EEG). I also have a passion for meta-analysis and web-based tools to study and discover the vastness of brain imaging data.
+<img src='/images/Glerean2015_ASN_Figure2.png' width=500>
+
 
 Networks
 ------
-Networks are ubiquitous. Furthermore, networks (graphs) are a powerful mathematical tool to model knowledge, social interaction, mental disorders and biological networks like the brain. I am specifically interested in multi-layer networks and how graph modelling of each layer can act as a bridge between phenotype, behaviour and brain-based measurement.
+Networks are ubiquitous. Furthermore, networks (graphs) are a powerful mathematical tool to model knowledge, social interaction, mental disorders and biological networks like the brain. I am specifically interested in multi-layer networks and how graph modelling of each layer can act as a bridge between phenotype, behaviour and brain-based measurement. Network science is also a powerful tool to identify clusters and subtypes, which is important in mental healthcare as current psychiatric diagnoses are often too broad umbrella terms for very different types of conditions. I work on network modelling with a holistic data-driven approaches (such as proposed by RDoC) to better understand clinical populations.
+
+<img src='/images/Glerean2015_Diss_ISA.png' width=500>
 
 
 Behaviour
 ------
 Studying the brain without behaviour is like trying to understand a car without ever driving it. Behaviour is the most fascinating of the three concepts I am interested in, as we experience it daily alone and during interactions with others. Specifically, I am interested in emotions and the role of the body in our mental perception. I am also interested in quantifying behaviour with clinical populations, to design tools to aid individuals and their therapists in understanding behaviour using web-based and smartphone-based technologies. I have developed tools for self-reporting complex body responses due to emotions or other psycho-physiological processes. I have developed web tools for massive online data collection. I am also interested how individuals synchronise with each other using dynamic behavioural and physiological measures. 
+
+<img src='/images/Glerean2014_Body.png' width=500>
+
