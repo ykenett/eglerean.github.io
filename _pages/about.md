@@ -17,21 +17,23 @@ My main research interests orbit around these three keywords: <b>Brain, Networks
 Brain
 ------
 Most of my research focuses on the human brain. As the brain is a network, I have developed extensive knowledge in brain networks from the level of neurons up to the large scale interactions between brain regions. I am particularly interested in subcortical areas and their role in cognition and psychiatric disorders. I also study the interaction between individuals using quantitative approaches, by modelling how more brains synchronise with each other with methods such as Intersubject Synchronisation and Intersubject Dynamic Functional Connectivity. I work with Magnetic Resonance Imaging (fMRI, sMRI, dMRI, MRA, CBV), Positron Emission Tomography (mu-opiods receptors, serotonin receptors and transpotrters, dopamine), and sometimes also with electrophisiology (MEG, EEG). I also have a passion for meta-analysis and web-based tools to study and discover the vastness of brain imaging data.
-![Autism Spectrum Disorder - Brain Network Reorganization](/images/Glerean2015_ASN_Figure2.png){:width="500"}
+![Autism Spectrum Disorder - Brain Network Reorganization](/images/Glerean2015_ASN_Figure2.png)
+*Functional subnetworks and their reorganization between NT and ASD. Functional subnetwork similarities and differences between NT (left) and ASD (right) subjects. The subnetworks are color-coded and projected on lateral and medial surfaces of both hemispheres. The alluvial diagram in the middle uses the same color-coding. The height of each ribbon representing a subnetwork corresponds to the number of nodes that belong to the given subnetwork. Stars indicate statistically significant group difference: \** significant at P < 0.05, see also Table I; plus signs indicate median consistency of all nodes within a subnetwork: +median subnetwork consistency > 0.5, ++median subnetwork consistency > 0.75.*
+
 
 
 Networks
 ------
 Networks are ubiquitous. Furthermore, networks (graphs) are a powerful mathematical tool to model knowledge, social interaction, mental disorders and biological networks like the brain. I am specifically interested in multi-layer networks and how graph modelling of each layer can act as a bridge between phenotype, behaviour and brain-based measurement. Network science is also a powerful tool to identify clusters and subtypes, which is important in mental healthcare as current psychiatric diagnoses are often too broad umbrella terms for very different types of conditions. I work on network modelling with a holistic data-driven approaches (such as proposed by RDoC) to better understand clinical populations.
 
-<img src='/images/Glerean2015_Diss_ISA.png' width=500>
+![Intersubject Analysis framework - Combining brain and behaviour across individuals](/images/Glerean2015_Diss_ISA.png)
 
 
 Behaviour
 ------
 Studying the brain without behaviour is like trying to understand a car without ever driving it. Behaviour is the most fascinating of the three concepts I am interested in, as we experience it daily alone and during interactions with others. Specifically, I am interested in emotions and the role of the body in our mental perception. I am also interested in quantifying behaviour with clinical populations, to design tools to aid individuals and their therapists in understanding behaviour using web-based and smartphone-based technologies. I have developed tools for self-reporting complex body responses due to emotions or other psycho-physiological processes. I have developed web tools for massive online data collection. I am also interested how individuals synchronise with each other using dynamic behavioural and physiological measures. 
 
-<img src='/images/Glerean2014_Body.png' width=500>
+![Bodily maps of emotions collected with the emBODY tool]('/images/Glerean2014_Body.png')
 
 
 
