@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Enrico Glerean (PhD. D.Tech.)"
+title                    : "Enrico Glerean (PhD D.Tech.)"
 title_separator          : "-"
-name                     : &name "Enrico Glerean<br>(PhD D.Tech.)"
+name                     : &name "Enrico Glerean"
 description              : &description "Brain, Networks, Behaviour"
 url                      : https://eglerean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Enrico Glerean (PhD D.Tech.)"
+  name             : "Enrico Glerean<br>(PhD D.Tech.)"
   avatar           : "EG_profile.jpg"
   bio              : "Postdoctoral scientist at University of Turku. Neuroscience, graph-theory, signal processing, web technologies, social cognition. "
   location         : "Finland"
