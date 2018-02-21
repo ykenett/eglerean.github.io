@@ -35,7 +35,7 @@ Behaviour
 Studying the brain without behaviour is like trying to understand a car without ever driving it. Behaviour is the most fascinating of the three concepts I am interested in, as it is at the core of us as human beings, alone or during interactions with others. I am interested in quantifying behaviour in life-like situations, possibly outside the lab or by using naturalistic stimuli (videos, audio narratives, music). Specifically, I am interested in emotions and the role of the body in our mental perception. I am also interested in quantifying behaviour with clinical populations, to design tools to aid individuals and their therapists in understanding behaviour using web-based and smartphone-based technologies. I have developed tools for self-reporting complex body responses due to emotions or other psycho-physiological processes. I have developed web tools for massive online data collection. I am also interested how individuals synchronise with each other using dynamic behavioural and physiological measures. 
 
 ![Bodily maps of emotions collected with the emBODY tool](/images/Glerean2014_Body.png)
-###### Bodily topography of basic (Upper) and nonbasic (Lower) emotions associated with words. The body maps show regions whose activation increased (warm colors) or decreased (cool colors) when feeling each emotion. The colorbar indicates the t-statistic range.
+###### *Bodily topography of basic (Upper) and nonbasic (Lower) emotions associated with words. The body maps show regions whose activation increased (warm colors) or decreased (cool colors) when feeling each emotion. The colorbar indicates the t-statistic range.*
 
 
 
