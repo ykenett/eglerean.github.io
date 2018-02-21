@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Enrico Glerean (PhD – D.Tech.)"
-excerpt: "Enrico Glerean, PhD (Dr.Tech.) – Brain, Networks, Behaviour"
+title: "Enrico Glerean (PhD D.Tech.)"
+excerpt: "Enrico Glerean, PhD (D.Tech.) – Brain, Networks, Behaviour"
 author_profile: true
 redirect_from: 
   - /about/
