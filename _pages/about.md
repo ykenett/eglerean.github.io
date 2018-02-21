@@ -8,7 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am Enrico Glerean, I am a postdoctoral scientist working with Brains, Networks, and Behaviour. You can see the <a href="/publications/">list of all my publication here</a>. You can access <a href="https://eglerean.github.io/files/Enrico_Glerean_CV.pdf">my CV here</a>. You can <a href="mailto:enrico.glerean@utu.fi">contact me here</a>. You can access the <a href="/code/">code I wrote here</a>.
+I am Enrico Glerean, I am a postdoctoral scientist working with Brains, Networks, and Behaviour. You can see the <a href="/publications/">list of all my publication here</a>. You can access <a href="https://eglerean.github.io/files/Enrico_Glerean_CV.pdf">my CV here</a>. You can <a href="mailto:enrico.glerean@utu.fi">contact me here</a>. You can access the <a href="/code/">code I wrote here</a>. 
+
+
+
+![Recently accepted: "Differential inter-subject correlation of brain activity when kinship is a variable in moral dilemma"](/images/Bacha_2017_overlapping_moral_dilemmas.jpg)
+###### *Recently accepted: <a href="https://www.nature.com/articles/s41598-017-14323-x">"Differential inter-subject correlation of brain activity when kinship is a variable in moral dilemma"</a>*
+
+---
 
 Research interests: Brain, Networks, Behaviour
 ======
