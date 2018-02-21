@@ -38,7 +38,7 @@ Studying the brain without behaviour is like trying to understand a car without 
 ###### *Bodily topography of basic (Upper) and nonbasic (Lower) emotions associated with words. The body maps show regions whose activation increased (warm colors) or decreased (cool colors) when feeling each emotion. The colorbar indicates the t-statistic range.*
 
 
-
+---
 
 About Enrico Glerean
 ======
