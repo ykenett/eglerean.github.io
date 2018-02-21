@@ -13,7 +13,7 @@ I am Enrico Glerean, I am a postdoctoral scientist working with Brains, Networks
 
 
 ![Recently accepted: "Differential inter-subject correlation of brain activity when kinship is a variable in moral dilemma"](/images/Bacha_2017_overlapping_moral_dilemmas.jpg){:width="500"}
-###### *Recently accepted: <a href="https://www.nature.com/articles/s41598-017-14323-x">"Differential inter-subject correlation of brain activity when kinship is a variable in moral dilemma"</a>*
+###### *Currently in press: <a href="https://www.nature.com/articles/s41598-017-14323-x">"Differential inter-subject correlation of brain activity when kinship is a variable in moral dilemma"</a>. Scientific Reports, 7(1), 14244. doi:10.1038/s41598-017-14323-x*
 
 ---
 
