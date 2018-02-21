@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Enrico Glerean (PhD. D.Tech.)"
 title_separator          : "-"
-name                     : &name "Enrico Glerean (PhD D.Tech.)"
+name                     : &name "Enrico Glerean<br>(PhD D.Tech.)"
 description              : &description "Brain, Networks, Behaviour"
 url                      : https://eglerean.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
